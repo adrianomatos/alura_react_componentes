@@ -1,5 +1,5 @@
-# React: Como os componentes funcionam
-Características do React, Components, States, Props, Virtual DOM, novas dependências, uso de IDs, bibliotecas: uuid e react-icons
+# React: Como os componentes funcionam (Características do React, Components, States, Props, Virtual DOM, novas dependências, uso de IDs, bibliotecas: uuid e react-icons)
+
 <img src="https://github.com/adrianomatos/alura_react_componentes/blob/main/Print1.png" alt="Print" />
 <img src="https://github.com/adrianomatos/alura_react_componentes/blob/main/Print2.png" alt="Print" />
 
